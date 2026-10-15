@@ -1,1 +1,2 @@
 time_utc,action,side,price,size_btc,pnl,balance,note
+2026-10-15T22:47:52.935142+00:00,OPEN,LONG,82389.19,0.01213751,0.0000,1000.00,"{""rsi"": 62.78, ""ema_fast"": 82374.46, ""ema_slow"": 82319.74}"
