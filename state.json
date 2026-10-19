@@ -1,28 +1,28 @@
 {
-  "balance": 968.9654992756301,
-  "equity": 968.9654992756301,
+  "balance": 967.9479570395786,
+  "equity": 967.9479570395786,
   "position": {
-    "side": "LONG",
-    "entry": 81956.61,
-    "size_btc": 0.011822908478957709,
-    "margin": 96.89654992756302,
-    "opened_at": "2026-10-19T23:04:58.898489+00:00",
+    "side": "SHORT",
+    "entry": 81968.9,
+    "size_btc": 0.011808722052383022,
+    "margin": 96.79479570395786,
+    "opened_at": "2026-10-19T23:38:33.432888+00:00",
     "ticks_held": 0
   },
-  "trades": 35,
+  "trades": 36,
   "wins": 9,
-  "realized_pnl": -31.034500724369863,
+  "realized_pnl": -32.05204296042143,
   "day": "2026-10-19",
   "daily_start_balance": 965.9468798969164,
-  "last_candle": 1792450800,
-  "last_action": "模拟开仓 LONG，价格 $81956.61",
-  "last_price": 81956.61,
-  "signal": "LONG",
+  "last_candle": 1792452900,
+  "last_action": "模拟开仓 SHORT，价格 $81968.90",
+  "last_price": 81968.9,
+  "signal": "SHORT",
   "signal_details": {
-    "rsi": 54.68,
-    "ema_fast": 81981.09,
-    "ema_slow": 81979.4
+    "rsi": 42.62,
+    "ema_fast": 81949.7,
+    "ema_slow": 81967.93
   },
-  "daily_loss_fraction": -0.003125036626274838,
-  "updated_at": "2026-10-19T23:04:58.898585+00:00"
+  "daily_loss_fraction": -0.0020716223472617475,
+  "updated_at": "2026-10-19T23:38:33.432979+00:00"
 }
