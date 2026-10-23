@@ -7,15 +7,15 @@
   "realized_pnl": -75.64085014528226,
   "day": "2026-10-23",
   "daily_start_balance": 936.9561190672972,
-  "last_candle": 1792725000,
-  "last_action": "观望；信号=HOLD，价格=$81783.74",
-  "last_price": 81783.74,
+  "last_candle": 1792727700,
+  "last_action": "观望；信号=HOLD，价格=$81794.13",
+  "last_price": 81794.13,
   "signal": "HOLD",
   "signal_details": {
-    "rsi": 85.36,
-    "ema_fast": 81739.13,
-    "ema_slow": 81609.17
+    "rsi": 49.24,
+    "ema_fast": 81779.07,
+    "ema_slow": 81692.66
   },
   "daily_loss_fraction": 0.013444566886567989,
-  "updated_at": "2026-10-23T03:19:05.124906+00:00"
+  "updated_at": "2026-10-23T03:59:31.756655+00:00"
 }
