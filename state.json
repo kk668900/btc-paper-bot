@@ -5,17 +5,17 @@
   "trades": 129,
   "wins": 33,
   "realized_pnl": -147.35464483787538,
-  "day": "2026-10-29",
-  "daily_start_balance": 829.7579047755866,
-  "last_candle": 1793317500,
-  "last_action": "观望；信号=HOLD，价格=$77914.80",
-  "last_price": 77914.8,
+  "day": "2026-10-30",
+  "daily_start_balance": 852.6453551621241,
+  "last_candle": 1793319900,
+  "last_action": "观望；信号=HOLD，价格=$76928.73",
+  "last_price": 76928.73,
   "signal": "HOLD",
   "signal_details": {
-    "rsi": 9.84,
-    "ema_fast": 78414.12,
-    "ema_slow": 78646.7
+    "rsi": 5.11,
+    "ema_fast": 77525.79,
+    "ema_slow": 77974.12
   },
-  "daily_loss_fraction": -0.027583286950098585,
-  "updated_at": "2026-10-29T23:49:33.353682+00:00"
+  "daily_loss_fraction": 0.0,
+  "updated_at": "2026-10-30T00:27:05.627206+00:00"
 }
